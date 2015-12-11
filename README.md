@@ -1,11 +1,12 @@
 # EmberRailsCli
 
-[![Gem Version](https://badge.fury.io/rb/ember_rails_cli.svg)](http://badge.fury.io/rb/ember_rails_cli)
-[![Code Climate GPA](https://codeclimate.com/github//ember_rails_cli.svg)](https://codeclimate.com/github//ember_rails_cli)
-[![Code Climate Coverage](https://codeclimate.com/github//ember_rails_cli/coverage.svg)](https://codeclimate.com/github//ember_rails_cli)
-[![Gemnasium Status](https://gemnasium.com//ember_rails_cli.svg)](https://gemnasium.com//ember_rails_cli)
-[![Travis CI Status](https://secure.travis-ci.org//ember_rails_cli.svg)](https://travis-ci.org//ember_rails_cli)
-[![Patreon](https://img.shields.io/badge/patreon-donate-brightgreen.svg)](https://www.patreon.com/)
+<!--
+    [![Gem Version](https://badge.fury.io/rb/ember_rails_cli.svg)](http://badge.fury.io/rb/ember_rails_cli)
+    [![Code Climate GPA](https://codeclimate.com/github//ember_rails_cli.svg)](https://codeclimate.com/github//ember_rails_cli)
+    [![Code Climate     Coverage](https://codeclimate.com/github//ember_rails_cli/coverage.svg)](https://codeclimate.com/github//ember_rails_cli)
+    [![Gemnasium Status](https://gemnasium.com//ember_rails_cli.svg)](https://gemnasium.com//ember_rails_cli)
+    [![Travis CI Status](https://secure.travis-ci.org//ember_rails_cli.svg)](https://travis-ci.org//ember_rails_cli)
+-->
 
 <!-- Tocer[start]: Auto-generated, don't remove. -->
 

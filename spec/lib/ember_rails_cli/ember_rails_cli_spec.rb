@@ -1,5 +1,5 @@
-require "spec_helper"
+require 'spec_helper'
 
-describe "EmberRailsCli" do
-  it "should be tested"
+describe 'EmberRailsCli' do
+  it 'should be tested'
 end

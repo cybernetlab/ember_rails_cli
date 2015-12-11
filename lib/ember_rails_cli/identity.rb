@@ -2,15 +2,15 @@ module EmberRailsCli
   # Gem identity information.
   module Identity
     def self.name
-      "ember_rails_cli"
+      'ember_rails_cli'
     end
 
     def self.label
-      "EmberRailsCli"
+      'EmberRailsCli'
     end
 
     def self.version
-      "0.1.0"
+      '2.2.0.1'
     end
 
     def self.version_label
